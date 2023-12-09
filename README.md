@@ -1,5 +1,5 @@
 # parallax-demo-1
-- [Demo Project](https://maryamparvaz.github.io/To-Do-List-1/)
+- [Demo Project](https://maryamparvaz.github.io/parallax-demo-1/)
 
 - Developed by Maryam Parvaz 🙎
 
